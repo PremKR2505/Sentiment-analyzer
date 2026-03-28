@@ -15,13 +15,22 @@ run the following code in your text editor
 import nltk
 nltk.download('vader_lexicon')
 ```
-## Installation💾
-Ensure python 3.x is installed
+## Installation & Usage 🚀
+1. Ensure **Python 3.x** is installed.
+2. Install the libraries:
+   ```bash
+   pip install nltk ttkbootstrap
+   ```
 After installing all depedencies
 clone the repo 
 ```bash
 git clone https://github.com/PremKR2505/Sentiment-analyzer
 ```
+## Run the code👟
+```
+python main.py
+```
+
 ### screenshots
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/be06e978-2de0-44de-b984-fec766178b24" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d5aa9f06-2b05-4a84-b357-83d833f2fe84" />
